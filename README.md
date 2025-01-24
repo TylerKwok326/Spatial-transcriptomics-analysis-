@@ -27,9 +27,9 @@ This repository contains code for analyzing spatial transcriptomics data from Na
 
 ## Key Findings
 
-- Successfully identified 8 distinct cell populations
-- Spatial organization reveals tissue architecture
-- ~21.8% unassigned transcripts in negative probe analysis
-- Clear separation of epithelial and stromal regions based on PanCK staining
-- Distinct CD45+ immune cell infiltrates
-
+- Identified 8 cell populations with distinct molecular signatures and spatial organization
+- Quality control shows 0.22% unassigned transcripts in negative probe analysis
+- Mean transcript count ~500-1000 per cell with high cell-to-cell variation
+- Strong spatial segregation between epithelial (EPCAM+) and stromal (DCN+) regions
+- Immune populations (CD45+, CD52+, CD79A+) show localized clustering patterns
+- Vascular markers (PECAM1, RGS5, ACTA2) highlight distinct vessel architecture
